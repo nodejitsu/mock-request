@@ -1,4 +1,4 @@
-# APIeasy
+# mock-request
 
 A simple testing tool for mocking HTTP sequences of request / response pairs in node.js
 
@@ -77,7 +77,7 @@ The `mock-request` library is designed for explicit mocking, it does not perform
 
 ## Roadmap
 
-1. [Get feedback][6] on what else could be exposed through this library.
+1. [Get feedback][5] on what else could be exposed through this library.
 2. Improve it.
 3. Repeat (1) + (2).
 
@@ -94,3 +94,4 @@ The `mock-request` library is designed for explicit mocking, it does not perform
 [2]: http://tjholowaychuk.com/post/656851606/expresso-tdd-framework-for-nodejs
 [3]: http://github.com/caolan/nodeunit
 [4]: http://en.wikipedia.org/wiki/Mock_object
+[5]: https://github.com/nodejitsu/mock-request/issues
