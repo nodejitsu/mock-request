@@ -40,7 +40,8 @@ The `mock-request` library is designed for explicit mocking, it does not perform
                 })
                 .response(200, { 'some': 'test-has-completed' }, {
                   'x-test-completed': true
-                });
+                })
+                .run();
   
   //
   // The mock function returned from `mockRequest.mock()` is 
