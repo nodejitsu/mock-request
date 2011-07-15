@@ -38,7 +38,7 @@ The `mock-request` library is designed for explicit mocking, it does not perform
                 .post('/tests', { 'some': 'test-youre-running' }, {
                   'x-test-header': true
                 })
-                .response(200, { 'some': 'test-has-completed' }, {
+                .respond(200, { 'some': 'test-has-completed' }, {
                   'x-test-completed': true
                 })
                 .run();
