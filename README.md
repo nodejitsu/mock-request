@@ -1,3 +1,8 @@
+# NOTICE: THIS PROJECT HAS BEEN DEPRECATED
+## We suggest using `nock`: [http://github.com/flatiron/nock](http://github.com/flatiron/nock)
+
+<img src="http://c713548.r48.cf2.rackcdn.com/flatiron-github.png" />
+
 # mock-request
 
 A simple testing tool for mocking HTTP sequences of request / response pairs in node.js
